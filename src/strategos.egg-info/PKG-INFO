@@ -1,0 +1,38 @@
+Metadata-Version: 2.4
+Name: strategos
+Version: 0.1.0
+Summary: Strategos is the unified suite for professional digital forensic investigations.
+Author: ShadowStrike-CTF
+License: MIT
+Project-URL: Homepage, https://github.com/ShadowStrike-CTF/Strategos
+Project-URL: Source, https://github.com/ShadowStrike-CTF/Strategos
+Project-URL: Bug Tracker, https://github.com/ShadowStrike-CTF/Strategos/issues
+Keywords: forensics,ctf,digital-forensics,dfir
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Security
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# Strategos — Forensic Suite
+
+Part of the Strategos Suite.
+
+Strategos is the unified suite for professional digital forensic investigations.
+
+> Placeholder release — full build coming soon.
+
+## Strategos Suite
+
+| Package | Role |
+|---|---|
+| **Nika** | Forensic parser |
+| **Komanda** | Case management |
+| **Niska** | Investigation review |
+| **Sila** | Evidence management |
+| **Vistina** | Legal review |
+
+## Author
+
+GitHub: [ShadowStrike-CTF](https://github.com/ShadowStrike-CTF)

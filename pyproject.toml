@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "strategos"
+version = "0.1.0"
+description = "Strategos is the unified suite for professional digital forensic investigations."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "ShadowStrike-CTF" }]
+keywords = ["forensics", "ctf", "digital-forensics", "dfir"]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Science/Research",
+    "Topic :: Security",
+    "Programming Language :: Python :: 3",
+]
+requires-python = ">=3.10"
+
+[project.urls]
+"Homepage" = "https://github.com/ShadowStrike-CTF/Strategos"
+"Source" = "https://github.com/ShadowStrike-CTF/Strategos"
+"Bug Tracker" = "https://github.com/ShadowStrike-CTF/Strategos/issues"

@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/strategos/__init__.py
+src/strategos.egg-info/PKG-INFO
+src/strategos.egg-info/SOURCES.txt
+src/strategos.egg-info/dependency_links.txt
+src/strategos.egg-info/top_level.txt
